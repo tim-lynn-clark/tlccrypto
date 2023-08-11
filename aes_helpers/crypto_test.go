@@ -1,4 +1,4 @@
-package aes
+package aes_helpers
 
 import (
 	"testing"

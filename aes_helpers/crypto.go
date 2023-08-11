@@ -1,4 +1,4 @@
-package aes
+package aes_helpers
 
 import (
 	"crypto/aes"
@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	moduleIdentifier = "tlcrypto-aes"
+	moduleIdentifier = "tlcrypto-aes_helpers"
 )
 
 type CryptoHelper struct {
